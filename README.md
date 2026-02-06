@@ -18,6 +18,9 @@ This PHP attendance system project is primarily concerned with dealing with stud
 ![Screenshot (1313)](https://user-images.githubusercontent.com/36708000/173137057-5aad5420-7689-4d5e-aae0-df796154e993.png)
 #
 ![Screenshot (1316)](https://user-images.githubusercontent.com/36708000/173137075-81d7b66e-a5cc-4228-ab14-cecc465701d7.png)
+[Uploading record.mp4.gz…]()
+
+
 =======
 # AMS-Attendance_Management_System
 >>>>>>> 040919f5b84a158036f36dddc4ffe9a276e47a73
